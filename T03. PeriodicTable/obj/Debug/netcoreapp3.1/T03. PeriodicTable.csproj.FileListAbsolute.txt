@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T03. PeriodicTable\bin\Debug\netcoreapp3.1\T03. PeriodicTable.exe
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T03. PeriodicTable\bin\Debug\netcoreapp3.1\T03. PeriodicTable.deps.json
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T03. PeriodicTable\bin\Debug\netcoreapp3.1\T03. PeriodicTable.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T03. PeriodicTable\bin\Debug\netcoreapp3.1\T03. PeriodicTable.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T03. PeriodicTable\bin\Debug\netcoreapp3.1\T03. PeriodicTable.dll
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T03. PeriodicTable\bin\Debug\netcoreapp3.1\T03. PeriodicTable.pdb
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T03. PeriodicTable\obj\Debug\netcoreapp3.1\T03. PeriodicTable.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T03. PeriodicTable\obj\Debug\netcoreapp3.1\T03. PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T03. PeriodicTable\obj\Debug\netcoreapp3.1\T03. PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T03. PeriodicTable\obj\Debug\netcoreapp3.1\T03. PeriodicTable.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T03. PeriodicTable\obj\Debug\netcoreapp3.1\T03. PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T03. PeriodicTable\obj\Debug\netcoreapp3.1\T03. PeriodicTable.dll
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T03. PeriodicTable\obj\Debug\netcoreapp3.1\T03. PeriodicTable.pdb
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T03. PeriodicTable\obj\Debug\netcoreapp3.1\T03. PeriodicTable.genruntimeconfig.cache
