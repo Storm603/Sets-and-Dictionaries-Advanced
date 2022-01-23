@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T08. Ranking\bin\Debug\netcoreapp3.1\T08. Ranking.exe
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T08. Ranking\bin\Debug\netcoreapp3.1\T08. Ranking.deps.json
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T08. Ranking\bin\Debug\netcoreapp3.1\T08. Ranking.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T08. Ranking\bin\Debug\netcoreapp3.1\T08. Ranking.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T08. Ranking\bin\Debug\netcoreapp3.1\T08. Ranking.dll
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T08. Ranking\bin\Debug\netcoreapp3.1\T08. Ranking.pdb
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T08. Ranking\obj\Debug\netcoreapp3.1\T08. Ranking.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T08. Ranking\obj\Debug\netcoreapp3.1\T08. Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T08. Ranking\obj\Debug\netcoreapp3.1\T08. Ranking.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T08. Ranking\obj\Debug\netcoreapp3.1\T08. Ranking.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T08. Ranking\obj\Debug\netcoreapp3.1\T08. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T08. Ranking\obj\Debug\netcoreapp3.1\T08. Ranking.dll
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T08. Ranking\obj\Debug\netcoreapp3.1\T08. Ranking.pdb
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Exercise\T08. Ranking\obj\Debug\netcoreapp3.1\T08. Ranking.genruntimeconfig.cache
